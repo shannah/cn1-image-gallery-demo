@@ -1,0 +1,10 @@
+= Codename One Image Gallery Plugin Demo
+
+This is a demo app using the Codename One Image Gallery plugin.  See
+
+See https://github.com/shannah/cn1-image-gallery[the plugin's github page] for more information.
+
+== Project Setup Instructions
+
+You will need to copy the common/codenameone_settings.properties.example file to common/codenameone_settings.properties and fill in the values for your project.
+
